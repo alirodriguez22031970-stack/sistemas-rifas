@@ -1,0 +1,20 @@
+
+> sistema-rifas@1.0.0 dev
+> next dev
+
+  ▲ Next.js 14.2.33
+  - Local:        http://localhost:3000
+  - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 4.6s
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 3.3s (225 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 20.2s (1897 modules)
+ ✓ Compiled in 1270ms (858 modules)
+ ✓ Compiled in 308ms (844 modules)
+ GET / 200 in 22816ms
+ GET / 200 in 416ms
+<w> [webpack.cache.PackFileCacheStrategy] Serializing big strings (126kiB) impacts deserialization performance (consider using Buffer instead and decode when needed)
+ GET / 200 in 546ms

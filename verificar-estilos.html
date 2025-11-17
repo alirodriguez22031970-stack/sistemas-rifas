@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Verificar Estilos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+    .test {
+      background: blue;
+      color: white;
+      padding: 10px;
+      border-radius: 5px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Test de Estilos</h1>
+  <div class="test">Si ves esto en azul, los estilos básicos funcionan</div>
+  <p>Si los estilos de Tailwind no funcionan, verifica:</p>
+  <ul>
+    <li>Que globals.css esté importado en app/layout.tsx</li>
+    <li>Que tailwind.config.ts esté configurado correctamente</li>
+    <li>Que postcss.config.js exista</li>
+    <li>Que el servidor se haya reiniciado después de cambios</li>
+  </ul>
+</body>
+</html>
+
