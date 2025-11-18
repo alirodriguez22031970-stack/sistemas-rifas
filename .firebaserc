@@ -1,6 +1,7 @@
 {
   "projects": {
     "default": "SISTEMA-RIFAS"
+    "default": "sistema-rifas"
   }
 }
 
